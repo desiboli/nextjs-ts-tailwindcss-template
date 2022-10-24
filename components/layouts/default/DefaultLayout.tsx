@@ -1,8 +1,7 @@
+import { WithChildren } from '@/types';
 import Head from 'next/head';
 
-export interface IDefaultLayout {
-  children?: React.ReactNode;
-}
+export interface IDefaultLayout extends WithChildren {}
 
 const DefaultLayout = ({ children }: IDefaultLayout) => {
   return (
