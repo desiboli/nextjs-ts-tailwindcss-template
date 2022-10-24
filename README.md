@@ -234,6 +234,10 @@ Base.args = {
 
 ```
 
+### 3. Consider using this folder structure.
+
+[https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md)
+
 ---
 
 ## Learn More

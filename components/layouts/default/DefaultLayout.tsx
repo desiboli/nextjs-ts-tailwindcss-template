@@ -1,4 +1,4 @@
-import { WithChildren } from '@/types';
+import { WithChildren } from '@/@types';
 import Head from 'next/head';
 
 export interface IDefaultLayout extends WithChildren {}

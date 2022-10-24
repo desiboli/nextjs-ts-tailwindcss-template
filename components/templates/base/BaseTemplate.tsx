@@ -1,4 +1,4 @@
-import { WithChildren } from '@/types';
+import { WithChildren } from '@/@types';
 
 export interface IBaseTemplate extends WithChildren {
   sampleTextProp: string;
