@@ -34,7 +34,7 @@ Install Husky
 npx husky install
 ```
 
-Add Huskt script.
+Add Husky script.
 
 This will run on every commit for everyone.
 
