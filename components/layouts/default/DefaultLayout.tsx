@@ -4,7 +4,7 @@ export interface IDefaultLayout {
   children?: React.ReactNode;
 }
 
-const DefaultLayout: React.FC<IDefaultLayout> = ({ children }) => {
+const DefaultLayout = ({ children }: IDefaultLayout) => {
   return (
     <>
       <Head>
