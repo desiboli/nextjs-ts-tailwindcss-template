@@ -11,8 +11,12 @@ const Home: NextPageWithLayout = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className="text-3xl font-bold underline">
-        Nextjs Typescript + TailwindCSS Template
+      <h1 className="text-3xl font-bold">
+        Nextjs Typescript +{' '}
+        <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+          TailwindCSS
+        </span>{' '}
+        Template
       </h1>
     </>
   );
